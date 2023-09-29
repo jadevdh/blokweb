@@ -16,10 +16,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Jade van der Hoorn
+  Sanne 't Hooft (vervangen door jouw naam)
 
   #### Je startniveau:
-  Blauw
+  hier je startniveau (kies uit zwart, rood óf blauw)
 
   #### Je focus:
   hier je focus (kies uit responsive óf surface plane)
@@ -36,15 +36,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  Ik ga de website van rockwerchter na maken
-  https://www.rockwerchter.be/nl/?_gl=1*cp87ih*_up*MQ..*_ga*MjA0MzE5NzczNy4xNjkzOTAzNTYz*_ga_833J40QHFF*MTY5MzkwMzU2Mi4xLjAuMTY5MzkwMzU2Mi4wLjAuMA..
+  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Home pagina  
+  hier de naam van de pagina  
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Lineup pagina 
+  hier de naam van de pagina  
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
