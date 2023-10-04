@@ -1,6 +1,8 @@
 // JavaScript Document
 console.log("hi");
 
+// BRON CODE: CHAT GPT
+
 // Zoek het menu-toggle-element en het nav-element
 const menuToggle = document.getElementById('menu-toggle');
 const navMenu = document.getElementById('menu-list');
@@ -13,6 +15,7 @@ menuToggle.addEventListener('click', () => {
 
 // Voeg een klikgebeurtenis toe aan het menu-overlay-element om het menu te sluiten wanneer er buiten wordt geklikt
 const menuOverlay = document.getElementById('menu-overlay');
+
 menuOverlay.addEventListener('click', () => {
   navMenu.classList.remove('show-menu');
 });

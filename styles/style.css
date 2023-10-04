@@ -21,7 +21,7 @@
 	--color-background: #eee;
 }
 
-
+/* ik heb alle code zelfg eschreven en uit mijn eigenn aantekeningen, tenzij anders vermeld */
 
 
 
@@ -62,6 +62,7 @@ header {
 	left: 0;
 	right: 0;
 	top: 0;
+	z-index: 10000;
 }
 
 header img {
@@ -719,9 +720,6 @@ button {
 		margin-left: 9%;
 	}
 
-	main>svg {
-		margin-bottom: 0;
-	}
 
 	p {
 		font-family: 'capraiaitalic', serif;
@@ -875,7 +873,7 @@ button {
 		height: 28em;
 		top: 13em;
 		position: sticky;
-		margin-left: 2em;
+		margin-left: 2.2em;
 		margin-right: -1.5em;
 		z-index: 0;
 	}
@@ -896,11 +894,12 @@ button {
 		display: flex;
 		flex-direction: column;
 		background-color: white;
-		margin-right: 2.2em;
+		margin-right: 3em;
 		padding-left: 2em;
 		padding-right: 2em;
 		padding-top: 3.5em;
 		margin-bottom: -10em;
+		margin-left: 4em
 	}
 
 	.grid2 h2 {
@@ -962,37 +961,20 @@ button {
 		padding-bottom: 4.8%;
 	}
 
-	img[src="images/lijn2.svg"] {
-		display: block;
-		transform: rotate(95deg);
-	}
-
-	img[src="images/a_svg.svg"] {
-		display: block;
-		min-width: 125%;
-	}
-
 	.svg2 {
 		overflow: hidden;
 		margin-top: 5em;
 	}
 
 	.svgtje {
-		overflow: hidden;
-	}
-
-
-	.grid2 .svgtje {
-		float: right;
-		clear: right;
-		height: 100%;
-		display: block;
-		margin: 0 auto;
+		display:none;
 	}
 
 	.bar {
 		display: none;
 	}
+
+	/* Chat GPT bron */
 
 	#menu-list {
 		display: flex;
@@ -1014,6 +996,8 @@ button {
 		font-family: sans-serif !important;
 		margin-left: 1.3em;
 	}
+
+	/* tot hier */
 
 	button {
 		padding-top: 0.5em;
@@ -1100,6 +1084,12 @@ button {
 		font-size: 220%;
 		margin-left: 0.3em;
 		margin-top: 1em;
+	}
+
+	.details {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
 	}
 
 }
