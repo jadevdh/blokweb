@@ -68,7 +68,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/www.rockwerchter.be_en_(iPhone_XR)" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/www.rockwerchter.be_en_(iPhone_XR).png" width="375px" alt="breakdown van de hele pagina">
 
 </details>
 
@@ -180,7 +180,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
   Ik heb geprobeerd om eerst met een codepen opdracht erachter te komen hoe ik een hamburger menu moest maken die alleen te zien was op een mobiel scherm, maar dit lukte mij niet. Geen idee waar het aan lag, maar ik snapte er niks van. Ik heb dit daarom uiteindelijk aan Chat GPT moeten vragen. Die heeft mij de goede code gegeven waardoor het uiteindelijk wel gelukt is. Ik heb de code ook nog opgezocht zodat ik precies wist wat alles inhield. 
 
-  <img src="readme-images/menu.code.png" width="375px" alt="hamburger menu code">
+  <img src="readme-images/menu-code.png" width="375px" alt="hamburger menu code">
   <img src="readme-images/hamburger.png" width="375px" alt="hamburger">
   <img src="readme-images/menu.png" width="375px" alt="menu">
   
