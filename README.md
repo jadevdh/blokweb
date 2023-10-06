@@ -165,7 +165,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   1. Wat voor mij het leukste was om te leren was het werken met grids. Ik heb vaak best wat moeite met het stylen van pagina's met flexbox etc, maar met grid heb ik voor het eerst gehad dat ik het meteen doorhad en dat alles meteen lukte. Ik heb op mijn website twee mooie grids gemaakt waar ik erg trots op ben. Ik had het nog vaker willen gebruiken, maar dit was niet echt noodzakelijk :(. 
 
   <img src="readme-images/grid-am.png" width="375px" alt="top">
-  <img src="readme-images/grid-home" width="375px" alt="grid home">
+  <img src="readme-images/grid-home.png" width="375px" alt="grid home">
 
   2. Ik heb op deze website voor het eerst position: sticky gebruikt. Ik dacht dat dit best wel lastig zou zijn, maar dat viel heel erg mee. Het zijn eigenlijk maar twee lijntjes css die er toch voor zorgen dat alles er iets proffesioneler er uit ziet. 
 
