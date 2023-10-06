@@ -170,7 +170,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   2. Ik heb op deze website voor het eerst position: sticky gebruikt. Ik dacht dat dit best wel lastig zou zijn, maar dat viel heel erg mee. Het zijn eigenlijk maar twee lijntjes css die er toch voor zorgen dat alles er iets proffesioneler er uit ziet. 
 
   <img src="readme-images/position-sticky.png" width="375px" alt="position sticky">
-  <img src="readme-images/position-sticky.png" width="375px" alt="position sticky code">
+  <img src="readme-images/code.png" width="375px" alt="position sticky code">
 
   3. Wat gelukt is, maar wat me wel wat moeite kostte, was het responsive maken van de website. Omdat ik eerst de styling van het mobiele formaat had, moest ik dat allemaal gaan omzetten. Het was vooral lastig op momenten dat ik iets aan de html moest toevoegen, waardoor de code in mijn css af en toe niet meer werktte. Als ik dan bijvoorbeeld main>img gebruikte, maar later moest ik een div toevoegen, klopte dat niet meer. Het is uiteindelijk wel helemaal gelukt, dus dat is wel iets om trots op te zijn.
 
