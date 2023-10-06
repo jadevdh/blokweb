@@ -164,18 +164,25 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
   1. Wat voor mij het leukste was om te leren was het werken met grids. Ik heb vaak best wat moeite met het stylen van pagina's met flexbox etc, maar met grid heb ik voor het eerst gehad dat ik het meteen doorhad en dat alles meteen lukte. Ik heb op mijn website twee mooie grids gemaakt waar ik erg trots op ben. Ik had het nog vaker willen gebruiken, maar dit was niet echt noodzakelijk :(. 
 
+
   <img src="readme-images/grid-am.png" width="375px" alt="top">
   <img src="readme-images/grid-home.png" width="375px" alt="grid home">
 
+
   2. Ik heb op deze website voor het eerst position: sticky gebruikt. Ik dacht dat dit best wel lastig zou zijn, maar dat viel heel erg mee. Het zijn eigenlijk maar twee lijntjes css die er toch voor zorgen dat alles er iets proffesioneler er uit ziet. 
+
 
   <img src="readme-images/position-sticky.png" width="375px" alt="position sticky">
   <img src="readme-images/code.png" width="375px" alt="position sticky code">
 
+
   3. Wat gelukt is, maar wat me wel wat moeite kostte, was het responsive maken van de website. Omdat ik eerst de styling van het mobiele formaat had, moest ik dat allemaal gaan omzetten. Het was vooral lastig op momenten dat ik iets aan de html moest toevoegen, waardoor de code in mijn css af en toe niet meer werktte. Als ik dan bijvoorbeeld main>img gebruikte, maar later moest ik een div toevoegen, klopte dat niet meer. Het is uiteindelijk wel helemaal gelukt, dus dat is wel iets om trots op te zijn.
+
 
   <img src="readme-images/media-query.png" width="375px" alt="media query code">
 
+  Verder ben ik over het algemeen blij dat ik eindelijk dingen kan stylen in css zonder steeds van alles op te moeten zoeken. Ik heb door hoe het werkt, wat voor mij erg lang geduurt heeft. Ik zou nu (denk ik) uit mijn hoofd een hele pagina kunnen stylen, en dat vind ik toch wel een prestatie. 
+  
   ### Dit was lastig/Is niet gelukt:
   
   Ik heb geprobeerd om eerst met een codepen opdracht erachter te komen hoe ik een hamburger menu moest maken die alleen te zien was op een mobiel scherm, maar dit lukte mij niet. Geen idee waar het aan lag, maar ik snapte er niks van. Ik heb dit daarom uiteindelijk aan Chat GPT moeten vragen. Die heeft mij de goede code gegeven waardoor het uiteindelijk wel gelukt is. Ik heb de code ook nog opgezocht zodat ik precies wist wat alles inhield. 
